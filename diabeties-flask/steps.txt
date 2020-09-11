@@ -1,0 +1,16 @@
+turn on the hotspot on the laptop
+connect your phone to the laptop hotspot
+
+open comand prompt
+run the following command - ipconfig
+
+Wireless LAN adapter Local Area Connection* 10:
+IPv4 Address. . . . . . . . . . . : 192.168.137.1 (this number will be different on your systems)
+
+get the ipv4 address
+and type it in the app and - http://192.168.137.1:5000
+
+
+run the main.py file on pc
+
+now you can use the app!
