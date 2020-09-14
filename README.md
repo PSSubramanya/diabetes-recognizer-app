@@ -1,17 +1,28 @@
 # diabetes_recognizer
 
-A new Flutter project.
+It is a flutter based project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+- It is an android app that classfies the type-1 and type-2 diabetes based on some given input values.
+- A user should enter the values and simply press on the processing button to get the output.
+- If the entry suggests that the user of the app is diabetes free, it also mentions that category.
 
-A few resources to get you started if this is your first Flutter project:
+## Working of the App
+- This app has 2 processing buttons
+  - One for getting the output via ML Model.
+  - Second one is based on an internal logic that is written inorder to execute the project if the ML Backend can't return an answer.
+- Here, we have used the local host concept and hence, the app will be recieving the data from the ML model via the local system itself.
+- Turn on the hotspot on the laptop.
+- Connect your phone to the laptop hotspot.
+- Turn on GPS Location on your phone.open comand prompt
+- Run the following command - **ipconfig**
+- Get the ipv4 address
+- And type it in the app eg. **http://192.168.137.1:5000**
+- Run the main.py file on pc
+- Now press **process using ml backend** button
+- Now you can use the app!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# diabetes-recognizer-app
+# Preview of the App
+
