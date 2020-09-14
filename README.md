@@ -26,3 +26,17 @@ It is a flutter based project.
 
 # Preview of the App
 
+## Splash Screen
+![alt text](https://github.com/PSSubramanya/diabetes-recognizer-app/blob/master/assets/images/1.jpeg)
+
+## Entry Page
+![alt text](https://github.com/PSSubramanya/diabetes-recognizer-app/blob/master/assets/images/2.jpeg)
+
+## Preview of two buttons
+![alt text](https://github.com/PSSubramanya/diabetes-recognizer-app/blob/master/assets/images/3.jpeg)
+
+## App output by logic
+![alt text](https://github.com/PSSubramanya/diabetes-recognizer-app/blob/master/assets/images/4.jpeg)
+
+## App output by ml Backend
+![alt text](https://github.com/PSSubramanya/diabetes-recognizer-app/blob/master/assets/images/5.jpeg)
